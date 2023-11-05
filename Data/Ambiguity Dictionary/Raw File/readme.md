@@ -1,4 +1,14 @@
-sorted_amb_from_dict_full[3757]
+<details> 
+<summary>sorted_amb_from_dict_full_checked[2723] </summary>
+  loss 1034 after checking with NLTK English corpus.
+  
+  ```
+  import nltk
+  nltk.download('words')
+  from nltk.corpus import words
+  ```
+
+</details>
 > Identify lexicons that exist in both En dictionary and Ms dictionary.
 
 Files available:
