@@ -1,0 +1,88 @@
+[
+  {
+  "Word": "air",
+  "mn": {
+    "first": {
+      "meaning": "cecair yg terbentuk drpd dua bahagian hidrogen dan satu bahagian oksigen",
+      "related": [
+        {
+          "ms": [
+            "minum"
+          ],
+          "en": [
+            "drink",
+            "consume"
+          ]
+        }
+      ]
+    }
+  },
+  "en": {
+    "first": {
+      "meaning": "the mixture of gases that surrounds the earth and that we breathe",
+      "related": [
+        {
+          "ms": [
+            "segar"
+          ],
+          "en": [
+            "fresh"
+          ]
+        },
+        {
+          "ms": [
+            "nafas",
+            "sedut",
+            "hembus"
+          ],
+          "en": [
+            "breath",
+            "inhale",
+            "exhale"
+          ]
+        },
+        {
+          "ms": [
+            "tekanan"
+          ],
+          "en": [
+            "pressure"
+          ]
+        }
+      ]
+    },
+    "second": {
+      "meaning": "the space above the ground, especially high above the ground",
+      "related": [
+        {
+          "ms": [
+            "kemalangan",
+            "bencana"
+          ],
+          "en": [
+            "crash",
+            "disaster"
+          ]
+        },
+        {
+          "ms": [
+            "jalan"
+          ],
+          "en": [
+            "travel"
+          ]
+        },
+        {
+          "ms": [
+            "tentera"
+          ],
+          "en": [
+            "force"
+          ]
+        }
+      ]
+    }
+  }
+},
+{}
+]
