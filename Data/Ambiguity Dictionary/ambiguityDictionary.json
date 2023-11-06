@@ -84,5 +84,351 @@
     }
   }
 },
-{}
+  {
+  "Word": "jam",
+  "ms": {
+    "first": {
+      "meaning": "alat utk menunjukkan (mengukur) waktu",
+      "related": [
+        {
+          "ms": [
+            "tangan"
+          ],
+          "en": [
+            "hand"
+          ]
+        },
+        {
+          "ms": [
+            "dinding"
+          ],
+          "en": [
+            "wall"
+          ]
+        },
+        {
+          "ms": [
+            "meja"
+          ],
+          "en": [
+            "table"
+          ]
+        }
+      ]
+    },
+    "second": {
+      "meaning": "tanda waktu, pukul",
+      "related": [
+        {
+          "ms": "",
+          "en": ""
+        }
+      ]
+    }
+  },
+  "en": {
+    "first": {
+      "meaning": "a sweet, soft food made by cooking fruit with sugar to preserve it",
+      "related": [
+        {
+          "ms": [
+            "buah-buahan",
+            "strawberi",
+            "mentega"
+          ],
+          "en": [
+            "fruit",
+            "strawberry",
+            "butter"
+          ]
+        },
+        {
+          "ms": [
+            "sandwich",
+            "roti"
+          ],
+          "en": [
+            "sandwich",
+            "bread",
+            "toast"
+          ]
+        },
+        {
+          "ms": [
+            "tekanan"
+          ],
+          "en": [
+            "pressure"
+          ]
+        }
+      ]
+    },
+    "second": {
+      "meaning": "a difficult situation",
+      "related": [
+        {
+          "ms": [
+            "lalu lintas"
+          ],
+          "en": [
+            "traffic"
+          ]
+        },
+        {
+          "ms": [
+            "sangkut",
+            "perangkap"
+          ],
+          "en": [
+            "stuck"
+          ]
+        },
+        {
+          "ms": [
+            "kertas",
+            "mesin"
+          ],
+          "en": [
+            "paper",
+            "machine"
+          ]
+        }
+      ]
+    }
+  }
+},
+{
+  "Word": "cat",
+  "ms": {
+    "first": {
+      "meaning": "sj cecair berwarna yg disapukan pd dinding dll",
+      "related": [
+        {
+          "ms": [
+            "minyak",
+            "air",
+            "batik"
+          ],
+          "en": [
+            "oil",
+            "water",
+            "batik"
+          ]
+        },
+        {
+          "ms": [
+            "pakai"
+          ],
+          "en": [
+            "use"
+          ]
+        },
+        {
+          "ms": [
+            "lukis"
+          ],
+          "en": [
+            "paint"
+          ]
+        }
+      ]
+    }
+  },
+  "en": {
+    "first": {
+      "meaning": "a small animal with fur, four legs, a tail, and claws, usually kept as a pet or for catching mice",
+      "related": [
+        {
+          "ms": [
+            "binatang",
+            "domestik"
+          ],
+          "en": [
+            "animal",
+            "domestic"
+          ]
+        },
+        {
+          "ms": [
+            "suap"
+          ],
+          "en": [
+            "feed"
+          ]
+        },
+        {
+          "ms": [
+            "belai"
+          ],
+          "en": [
+            "pet"
+          ]
+        }
+      ]
+    }
+  }
+},
+  {
+  "Word": "cap",
+  "ms": {
+    "first": {
+      "meaning": "alat utk menurunkan bekas atau kesan tanda (tandatangan, nama, dll) dgn menekan­kannya di atas kertas (surat dll)",
+      "related": [
+        {
+          "ms": [
+            "getah",
+            "kain"
+          ],
+          "en": [
+            "rubber",
+            "cloth"
+          ]
+        }
+      ]
+    },
+    "second": {
+      "meaning": "bekas atau kesan (tanda, gambar, tandatangan, dll) yg dibuat dgn cap",
+      "related": [
+        {
+          "ms": [
+            "jari",
+            "tangan",
+            "nama"
+          ],
+          "en": [
+            "finger",
+            "hand",
+            "name"
+          ]
+        }
+      ]
+    }
+  },
+  "en": {
+    "first": {
+      "meaning": "a soft flat hat that has a curved part sticking out at the front, often worn as part of a uniform",
+      "related": [
+        {
+          "ms": [
+            "mandi",
+            "renang"
+          ],
+          "en": [
+            "shower",
+            "swimming"
+          ]
+        }
+      ]
+    },
+    "second": {
+      "meaning": "a small lid or cover",
+      "related": [
+        {
+          "ms": [
+            "lensa"
+          ],
+          "en": [
+            "lens"
+          ]
+        }
+      ]
+    }
+  }
+},
+  {
+  "Word": "main",
+  "ms": {
+    "first": {
+      "meaning": "sesuatu yg dilakukan utk bersenang­senang atau bersuka-suka",
+      "related": [
+        {
+          "ms": [
+            "bola"
+          ],
+          "en": [
+            "ball",
+            "game"
+          ]
+        },
+        {
+          "ms": [
+            "biolin",
+            "lagu"
+          ],
+          "en": [
+            "violin",
+            "song"
+          ]
+        }
+      ]
+    },
+    "second": {
+      "meaning": "bekas atau kesan (tanda, gambar, tandatangan, dll) yg dibuat dgn cap",
+      "related": [
+        {
+          "ms": [
+            "jari",
+            "tangan",
+            "nama"
+          ],
+          "en": [
+            "finger",
+            "hand",
+            "name"
+          ]
+        }
+      ]
+    }
+  },
+  "en": {
+    "first": {
+      "meaning": "larger, more important, or having more influence than others of the same type",
+      "related": [
+        {
+          "ms": [
+            "benda",
+            "sebab",
+            "isi",
+            "masalah",
+            "bimbang"
+          ],
+          "en": [
+            "thing",
+            "reason",
+            "point",
+            "problem",
+            "concern"
+          ]
+        },
+        {
+          "ms": [
+            "pintu masuk",
+            "menu",
+            "kawasan"
+          ],
+          "en": [
+            "entrance",
+            "menu",
+            "areas"
+          ]
+        }
+      ]
+    },
+    "second": {
+      "meaning": "a large pipe that carries water or gas, or a wire carrying electricity, from one place to another, to which a house can be connected",
+      "related": [
+        {
+          "ms": [
+            "gas",
+            "elektrik"
+          ],
+          "en": [
+            "gas",
+            "electric"
+          ]
+        }
+      ]
+    }
+  }
+}
 ]
